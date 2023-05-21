@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Catalog.Core.Entities
 {
+    [BsonIgnoreExtraElements]
     public class Product:BaseEntity
     {
         [BsonElement("Name")]
