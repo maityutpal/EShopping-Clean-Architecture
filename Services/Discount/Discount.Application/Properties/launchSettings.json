@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Discount.Application": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5026;https://localhost:7026",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
